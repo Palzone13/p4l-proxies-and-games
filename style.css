@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background: #4a90e2;
+    color: white;
+    padding: 20px;
+}
+
+.logo {
+    width: 100px;
+}
+
+main {
+    margin: 20px;
+}
+
+input {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background: #4a90e2;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+iframe {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+}
