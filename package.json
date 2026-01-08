@@ -1,0 +1,14 @@
+{
+  "name": "p4l-proxies-and-games",
+  "version": "1.0.0",
+  "description": "P4L Proxies and Games - web proxy and games portal",
+  "main": "server/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
